@@ -1,3 +1,3 @@
 # Smart mute app
 
-Turn on mute, and a geofence is created. Once you leave the geofence, the phone turns off mute again
+Turn on smart mute, and a geofence is created and the phone is muted. Mute automatically turns off once you leave the fence.
